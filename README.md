@@ -1,5 +1,9 @@
-# coursJS
+coursJS
+=======
+
 Cours initiation à JavaScript
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA1NzAwMjI5N119
--->
+
+Test insertion image:
+
+![Résultat
+del'exécution](https://github.com/ProfesseurWeiss/coursJS/blob/master/images/yahoo_home_page_1994.jpg?raw=true)
