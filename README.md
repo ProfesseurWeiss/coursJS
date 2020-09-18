@@ -5,4 +5,4 @@ Cours initiation à JavaScript
 
 Test insertion image:
 
-![Résultat del'exécution](images/yahoo_home_page_1994.jpg)
+![Résultat de l'exécution](https://github.com/ProfesseurWeiss/coursJS/blob/master/images/yahoo_home_page_1994.jpg?raw=true)
