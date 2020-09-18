@@ -3,7 +3,7 @@ Sommaire
 
 -   Introduction
     -   [01 Références](01-References.md)
-    -   [02 Présentation de JavaScript]()
+    -   [02 Présentation de JavaScript](02-PresentationJS.md)
     -   [03 Environnement de travail]()
 -   Programmation
     -   [3, 2, 1... Codez !]()
