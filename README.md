@@ -8,9 +8,11 @@ Sommaire
 -   Programmation
     -   [04 Programme](04-Programme.md)
     -   [05 Type et valeurs](05-TypesValeurs.md)
-    -   [06 Variables]()
+    -   [06 Variables](06-Variables.md)
+    -   [07 Calculs](07-Calculs.md)
+    -   [08 Interactions avec
+        l'utilisateur](08-InterractionUtilisateur.md)
     -   [...]()
     -   [...]()
-    -   [...]()
--   Programmation
+-   Annexes
     -   Fiches résumé

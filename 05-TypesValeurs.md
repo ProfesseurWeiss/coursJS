@@ -62,3 +62,42 @@ on peut le faire avec des nombres. En revanche, l'opérateur `+` peut
 être appliqué à deux valeurs de type chaîne. Son résultat est la
 jointure de ces deux chaînes, appelée **concaténation**. Par exemple,
 `"Bon"+"jour"` produit le résultat `"Bonjour"`.
+
+Conversions de types
+--------------------
+
+L'évaluation d'une expression peut entraîner des conversions de type.
+Ces conversions sont dites **implicites** : elles sont faites
+automatiquement, sans intervention du programmeur. Par exemple,
+l'utilisation de l'opérateur `+` entre une valeur de type chaîne et une
+valeur de type nombre provoque la concaténation des deux valeurs dans un
+résultat de type chaîne.
+
+``` js
+const f = 100;
+// Affiche "La variable f contient la valeur 100"
+console.log("La variable f contient la valeur " + f);
+```
+
+Le langage JavaScript est extrêmement tolérant au niveau des conversions
+de type. Cependant, il se peut qu'aucune conversion ne soit possible. En
+cas d'échec de la conversion d'un nombre, la valeur du résultat est
+`NaN` (*Not a Number*).
+
+``` js
+const g = "cinq" * 2;
+console.log(g); // Affiche NaN
+```
+
+Il arrive parfois que l'on souhaite forcer la conversion d'une valeur
+dans un autre type. On parle alors de conversion **explicite**. Pour
+cela, JavaScript dispose des instructions `Number()` et `String()` qui
+convertissent respectivement en un nombre et une chaîne la valeur placée
+entre parenthèses.
+
+``` js
+const h = "5";
+console.log(h + 1); // Concaténation : affiche la chaîne "51"
+const i = Number("5");
+console.log(i + 1); // Addition numérique : affiche le nombre 6
+```
