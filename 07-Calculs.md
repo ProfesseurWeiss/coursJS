@@ -1,5 +1,5 @@
-Calculs
-=======
+CALCUL, OPERATEUR et INCREMENTATION
+===================================
 
 La notion d'expression
 ----------------------

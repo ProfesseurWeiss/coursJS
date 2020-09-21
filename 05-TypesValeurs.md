@@ -12,7 +12,8 @@ Chaque langage informatique dispose d'une panoplie de types qui lui est
 propre. Nous allons étudier deux des principaux types disponibles en
 JavaScript.
 
-### Le type nombre
+Le type nombre
+--------------
 
 Une valeur de type **nombre** (*number*) représente une valeur
 numérique, autrement dit une quantité. Comme en mathématiques, on
@@ -36,7 +37,8 @@ suivant.
 | `*`       | Multiplication |
 | `/`       | Division       |
 
-### Le type chaîne
+Le type chaîne
+--------------
 
 Une valeur de type **chaîne de caractères** (en abrégé chaîne, ou
 *string*) représente un texte. Ces valeurs sont délimitées par une paire
