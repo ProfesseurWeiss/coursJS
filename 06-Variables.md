@@ -119,24 +119,6 @@ a = 6.28; // Impossible !
 
 ![Résultat de l'exécution](images/06-03.png)
 
-Incrémenter une variable de type nombre
----------------------------------------
-
-Il est également possible d'augmenter ou de diminuer la valeur d'un
-nombre avec les opérateurs `+=` et `++`. Ce dernier est appelé opérateur
-d'**incrémentation**, car il permet d'incrémenter (augmenter de 1) la
-valeur d'une variable.
-
-Dans l'exemple suivant, les lignes 2 et 3 permettent chacune d'augmenter
-la valeur de la variable `b` de 1.
-
-``` js
-let b = 0; // b contient la valeur 0
-b += 1; // b contient la valeur 1
-b++; // b contient la valeur 2
-console.log(b); // Affiche 2
-```
-
 Portée d'une variable
 ---------------------
 
@@ -194,4 +176,3 @@ pour ses variables.
 Bien nommer les éléments d'un programme est une compétence importante
 pour un développeur. Référez-vous à l'annexe pour plus de détails à ce
 sujet.
-
