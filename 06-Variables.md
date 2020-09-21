@@ -27,12 +27,12 @@ Une variable possède trois grandes propriétés :
 -   Son **type**, qui détermine le rôle et les opérations applicables à
     cette variable.
 
-I&gt; JavaScript n'impose pas de définir le type d'une variable. Ce type
-est déduit de la valeur stockée dans la variable, et peut donc changer
-au fur et à mesure de l'exécution du programme : on dit que JavaScript
-est un langage à typage **dynamique**. D'autres langages comme C ou Java
-imposent la définition du type des variables. On parle alors de typage
-**statique**.
+> JavaScript n'impose pas de définir le type d'une variable. Ce type est
+> déduit de la valeur stockée dans la variable, et peut donc changer au
+> fur et à mesure de l'exécution du programme : on dit que JavaScript
+> est un langage à typage **dynamique**. D'autres langages comme C ou
+> Java imposent la définition du type des variables. On parle alors de
+> typage **statique**.
 
 Déclarer une variable
 ---------------------
@@ -55,10 +55,9 @@ console.log(a);
 En JavaScript, on déclare une variable à l'aide du mot-clé `let` suivi
 du nom de la variable. Dans cet exemple, la variable créée se nomme `a`.
 
-I&gt; Dans les versions précédentes du langage, on déclarait une
-variable avec le mot-clé `var`. C'st toujours possible, mais sans
-rentrer dans des détails complexes, `let` et `const` le remplacent
-avantageusement.
+> Dans les versions précédentes du langage, on déclarait une variable
+> avec le mot-clé `var`. C'st toujours possible, mais sans rentrer dans
+> des détails complexes, `let` et `const` le remplacent avantageusement.
 
 Voici le résultat produit par l'exécution de ce programme.
 
@@ -89,9 +88,9 @@ Le résultat de son exécution est le suivant.
 La valeur de la variable `a` été modifiée par l'opération d'affectation.
 La ligne `a = 3.14` se lit "a reçoit la valeur 3,14".
 
-W&gt; Attention à ne pas confondre l'opérateur d'affectation `=` avec
-l'égalité mathématique ! Nous verrons prochainement comment exprimer une
-égalité en JavaScript.
+> Attention à ne pas confondre l'opérateur d'affectation `=` avec
+> l'égalité mathématique ! Nous verrons prochainement comment exprimer
+> une égalité en JavaScript.
 
 On peut également combiner déclaration et affectation d'une valeur en
 une seule ligne. Il est cependant important de bien distinguer leurs
@@ -172,7 +171,3 @@ console.log(perimetre);
 Leur fonctionnement est strictement identique, et pourtant la
 compréhension du second est beaucoup plus rapide grâce aux noms choisis
 pour ses variables.
-
-Bien nommer les éléments d'un programme est une compétence importante
-pour un développeur. Référez-vous à l'annexe pour plus de détails à ce
-sujet.

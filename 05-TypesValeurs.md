@@ -21,8 +21,8 @@ distingue les valeurs entières (ou entiers) 0, 1, 2, 3... et les valeurs
 réelles (ou réels) auxquelles on ajoute des chiffres après la virgule
 pour plus de précision.
 
-I&gt; La virgule s'exprime en informatique sous la forme d'un point :
-`3.14` et non `3,14` !
+> La virgule s'exprime en informatique sous la forme d'un point : `3.14`
+> et non `3,14` !
 
 Les nombres servent essentiellement à compter. Nous pouvons appliquer à
 des valeurs de type nombre les mêmes opérations qu'en mathématiques. Ces
@@ -44,14 +44,14 @@ Une valeur de type **chaîne de caractères** (en abrégé chaîne, ou
 *string*) représente un texte. Ces valeurs sont délimitées par une paire
 de guillemets doubles : `"Ceci est une chaîne"`.
 
-I&gt; Il est également possible de délimiter une chaîne de caractères
-avec une paire de guillemets simples : `'Ceci est aussi une chaîne'`.
-Par convention, nous emploierons les guillemets doubles dans tous les
-exemples de code de ce cours. L'important est d'être cohérent : utilisez
-l'une ou l'autre notation, mais ne mélangez pas les deux.
+> Il est également possible de délimiter une chaîne de caractères avec
+> une paire de guillemets simples : `'Ceci est aussi une chaîne'`. Par
+> convention, nous emploierons les guillemets doubles dans tous les
+> exemples de code de ce cours. L'important est d'être cohérent :
+> utilisez l'une ou l'autre notation, mais ne mélangez pas les deux.
 
-E&gt; Il ne faut surtout pas oublier de "fermer" une chaîne : simples ou
-doubles, les guillemets vont toujours par deux !
+> Il ne faut surtout pas oublier de "fermer" une chaîne : simples ou
+> doubles, les guillemets vont toujours par deux !
 
 Pour inclure dans une chaîne certains caractères spéciaux, on utilise le
 caractère `\` (prononcé "antislash" ou "backslash" en anglais) qui donne

@@ -32,8 +32,8 @@ sont écrits sous forme de texte dans un ou plusieurs fichiers et forment
 ce qu'on appelle le code source du programme. Les lignes de texte dans
 un fichier de code source s'appellent des **lignes de code**.
 
-I&gt; Le code source peut comporter des lignes vides : celles-ci seront
-ignorées lors de l'exécution du programme.
+> Le code source peut comporter des lignes vides : celles-ci seront
+> ignorées lors de l'exécution du programme.
 
 ### Instructions
 
@@ -41,8 +41,8 @@ Chaque ordre inclus dans un programme est appelée une **instruction**.
 Une instruction est délimitée par un point virgule. Un programme est
 constitué d'une suite d'instructions.
 
-I&gt; Le plus souvent, on n'écrit qu'une seule instruction par ligne,
-mais ce n'est pas une obligation.
+> Le plus souvent, on n'écrit qu'une seule instruction par ligne, mais
+> ce n'est pas une obligation.
 
 ### Déroulement de l'exécution
 
@@ -66,8 +66,8 @@ Le résultat de son exécution est le suivant.
 
 ![Résultat de l'exécution](images/04-01.png)
 
-I&gt; On remarque au passage qu'une division par zéro (ici `12/0`)
-produit, comme attendu, un résultat infini (`Infinity`).
+> On remarque au passage qu'une division par zéro (ici `12/0`) produit,
+> comme attendu, un résultat infini (`Infinity`).
 
 ### Commentaires
 
@@ -93,10 +93,10 @@ résultat.
 Les commentaires servent à donner des informations sur le programme et
 sont destinées au programmeur, non à la machine.
 
-I&gt; Il existe une autre manière de créer des commentaires en entourant
-une ou plusieurs lignes par les caractères `/*` et `*/`. I&gt; I&gt; /\*
-Un commentaire I&gt; sur plusieurs I&gt; lignes \*/ I&gt; I&gt; // Un
-commentaire sur une seule ligne
+> Il existe une autre manière de créer des commentaires en entourant une
+> ou plusieurs lignes par les caractères `/*` et `*/`. I&gt; I&gt; /\*
+> Un commentaire I&gt; sur plusieurs I&gt; lignes \*/ I&gt; I&gt; // Un
+> commentaire sur une seule ligne
 
 Les commentaires fournissent une aide précieuse pour comprendre le code
 source d'un programme. Il est important de décrire les parties
