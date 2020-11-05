@@ -12,8 +12,9 @@ Sommaire
     -   [07 Calculs](07-Calculs.md)
     -   [08 Interactions avec
         l'utilisateur](08-InterractionUtilisateur.md)
-    -   [09 Conditions](10-Conidtions.md)
-    -   [10 Fonctions](09-Fonctions.md)
+    -   [09 Conditions](09-Conidtions.md)
+    -   [10 Fonctions](10-Fonctions.md)
+    -   [11 Boucles](11-Boucles.md)
     -   [...]()
 -   Annexes
     -   Fiches résumé
