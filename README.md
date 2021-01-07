@@ -15,6 +15,9 @@ Sommaire
     -   [09 Conditions](09-Conditions.md)
     -   [10 Fonctions](10-Fonctions.md)
     -   [11 Boucles](11-Boucles.md)
+    -   [12 Tableauxs](12-Tableaux.md)
+    -   [13 ChainesCaracteres](13-ChainesCaracteres.md)
+    -   [14 Objets](14-Objets.md)
     -   [...]()
 -   Annexes
     -   Fiches résumé
