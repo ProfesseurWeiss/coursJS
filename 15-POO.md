@@ -1,5 +1,5 @@
-Programmation Oriente Objet
-===========================
+Programmation Orientée Objet
+============================
 
 Contexte : un mini-jeu de rôle, version multijoueurs
 ----------------------------------------------------
