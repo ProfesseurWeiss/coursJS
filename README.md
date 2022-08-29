@@ -2,10 +2,10 @@ Sommaire
 ========
 
 -   JS1 - Découverte
-    -   [1 Références](01-References.md)
-    -   [2 Présentation de JavaScript](02-PresentationJS.md)
-    -   [3 Environnement de travail](03-EnvironnementTravail.md)
-    -   [4 Programme](04-Programme.md)
+    -   [1 Références](JS1.1-References.md)
+    -   [2 Présentation de JavaScript](JS1.2-PresentationJS.md)
+    -   [3 Environnement de travail](JS1.3-EnvironnementTravail.md)
+    -   [4 Programme](JS1.4-Programme.md)
 -   JS2 - Débutant
     -   [1 Variables](06-Variables.md)
     -   [2 Type et valeurs](05-TypesValeurs.md)
