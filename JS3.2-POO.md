@@ -1,4 +1,4 @@
-POO - Les classes
+Les classes
 ============================
 
 Contexte : un mini-jeu de rôle, version multijoueurs
