@@ -1,4 +1,4 @@
-PPO - Les classes
+PPO avec des "Classes"
 ============================
 
 Contexte : un mini-jeu de rôle, version multijoueurs
